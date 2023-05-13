@@ -1,0 +1,17 @@
+MÚSICAS UTILIZADAS:
+
+Game Over - GameOver By den_yes (https://opengameart.org/users/denyes)
+
+Pixelland Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+EFEITOS SONOROS UTILIZADOS:
+
+Coletando Estrela - Coin/Pickup01.wav By n_audioman (https://freesound.org/people/n_audioman/)
+
+Colidindo - hit.wav By jeckkech (https://freesound.org/people/jeckkech/)
+
+Passando Pela Montanha- 8-bit Coin Pickup By Prof.Mudkip (https://freesound.org/people/Prof.Mudkip/)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
