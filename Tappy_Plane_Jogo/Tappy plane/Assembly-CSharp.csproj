@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\aviao.cs" />
      <Compile Include="Assets\Scripts\CenarioInfinito.cs" />
      <Compile Include="Assets\Scripts\Creditos.cs" />
+     <Compile Include="Assets\Scripts\DestruirComOtempo.cs" />
      <Compile Include="Assets\Scripts\Estrelas.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\GameOver.cs" />

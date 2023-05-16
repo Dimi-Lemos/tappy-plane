@@ -58,6 +58,7 @@ public class GameManager : MonoBehaviour
     public void CarregarTelaDeCreditos()
     {
       //Carregar tela de créditos
+      SceneManager.LoadScene(1);
 
     }
     public void SairDoJogo()
